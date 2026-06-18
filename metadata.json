@@ -1,0 +1,6 @@
+{
+  "name": "WedZen",
+  "description": "Premium all-in-one Indian wedding marketplace and planner with AI suggestions, bookings, vendor chats, regional templates, and expense trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
